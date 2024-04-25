@@ -1,0 +1,8 @@
+#Ex-01-correto.cic
+
+rotina
+     imprima("Digite um nro")
+     leia(nUmErO)
+     nUm <== nUm <> 123
+     imprima(123e.10)
+fim_rotina
